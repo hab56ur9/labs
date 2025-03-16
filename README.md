@@ -8,6 +8,6 @@
 ### [02-rbtree-Lab](https://github.com/hab56ur9/labs/tree/02-retree-lab)
 
 
-### [03-Malloc-Lab](https://github.com/hab56ur9/labs/blob/02-malloc-lab/README.md)
+### [03-Malloc-Lab](https://github.com/hab56ur9/labs/tree/03-malloc-lab)
 
 ### 04-Web-Proxy-Lab
