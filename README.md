@@ -1,6 +1,7 @@
 # labs
+컴퓨터 과학의 개념들을 구현하는 과제 입니다.
 
-# Branches 
+## Branches 
 ### 01-Data-Structures 
 
 ### 02-rbtree-Lab
