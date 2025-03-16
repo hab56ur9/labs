@@ -10,4 +10,4 @@
 
 ### [03-Malloc-Lab](https://github.com/hab56ur9/labs/tree/03-malloc-lab)
 
-### 04-Web-Proxy-Lab
+### [04-Web-Proxy-Lab](https://github.com/hab56ur9/labs/tree/04-web-proxy-lab)
